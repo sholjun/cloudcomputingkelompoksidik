@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_index" value="name:id_siswa;datatype:int,name:username;datatype:string,name:password;datatype:string,name:nama_lengkap;datatype:string,name:jenis_kelamin;datatype:int,name:agama;datatype:int,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:date,name:nama_ortu;datatype:string,name:alamat_siswa;datatype:string,name:sekolah_asal;datatype:string,name:foto;datatype:string,name:status;datatype:int,name:nilai_tes;datatype:real" />
+</info>

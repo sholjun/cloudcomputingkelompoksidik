@@ -1,0 +1,16 @@
+
+/* sembunyikan judul */
+.title {
+	display: none;
+}
+.sortir-kiri {
+	width:400px;
+	float:left
+}
+.sortir-kanan {
+	widows:200px;
+	float:left
+}
+a.btn  {
+	text-decoration:none
+}

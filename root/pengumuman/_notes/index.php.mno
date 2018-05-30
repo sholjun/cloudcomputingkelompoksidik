@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_halaman_utama" value="name:id_pengumuman;datatype:int,name:judul_pengumuman;datatype:string,name:isi_pengumuman;datatype:blob,name:tanggal_pengumuman;datatype:datetime" />
+</info>
